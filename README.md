@@ -2,9 +2,15 @@
 
 Code challenge Anny Trade: top 10 cryptocurrencies
 
+## Link
+
+**https://pagnojp.github.io/annycrypto/**
+
 ## Clone repository
 
+```bash
 $ git clone git@github.com:pagnojp/annycrypto.git
+```
 
 ## Dependencies
 
